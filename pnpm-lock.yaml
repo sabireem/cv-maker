@@ -70,7 +70,7 @@ importers:
 
   packages/markdown-it-katex:
     dependencies:
-      '@renovamen/utils':
+      '@sabireem/utils':
         specifier: workspace:*
         version: link:../utils
       katex:
@@ -100,7 +100,7 @@ importers:
 
   packages/vue-shortcuts:
     dependencies:
-      '@renovamen/utils':
+      '@sabireem/utils':
         specifier: workspace:*
         version: link:../utils
       '@vueuse/core':
@@ -175,7 +175,7 @@ importers:
       '@pinia/nuxt':
         specifier: ^0.5.1
         version: 0.5.1(magicast@0.3.4)(rollup@4.18.0)(typescript@5.5.3)(vue@3.4.31(typescript@5.5.3))
-      '@renovamen/utils':
+      '@sabireem/utils':
         specifier: workspace:*
         version: link:../packages/utils
       '@types/markdown-it-link-attributes':

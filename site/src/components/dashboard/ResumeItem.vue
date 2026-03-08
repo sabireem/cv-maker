@@ -36,7 +36,7 @@
 </template>
 
 <script lang="ts" setup>
-import { delay } from "@renovamen/utils";
+import { delay } from "@sabireem/utils";
 import type { DbResume } from "~/utils/storage";
 import { SharedResumeRender } from "#components";
 

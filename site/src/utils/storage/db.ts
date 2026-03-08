@@ -1,4 +1,4 @@
-import type { PartialWithRequired } from "@renovamen/utils";
+import type { PartialWithRequired } from "@sabireem/utils";
 import type { ResumeStyles } from "~/composables/stores/style";
 
 export type DbResumeEmpty = {
