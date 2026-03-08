@@ -3,6 +3,7 @@
 **By Mohamed Sabiullah**
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+🌍 **Live Demo:** [https://sabireem.github.io/cv-maker/](https://sabireem.github.io/cv-maker/)
 
 CV Maker is a free, powerful, and privacy-first online resume generator. Write your curriculum vitae (CV) and resumes seamlessly with Markdown!
 

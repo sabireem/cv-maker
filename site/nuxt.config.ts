@@ -41,6 +41,7 @@ export default defineNuxtConfig({
   },
 
   app: {
+    baseURL: "/cv-maker/",
     head: {
       viewport: "width=device-width,initial-scale=1",
       link: [
